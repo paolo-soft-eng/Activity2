@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe id="1">
+        <recipeTitle>Adobo</recipeTitle>
+        <ingredients>
+            <ingredient>500g chicken or pork (cut into pieces)</ingredient>
+            <ingredient>¼ cup soy sauce</ingredient>
+            <ingredient>¼ cup vinegar</ingredient>
+        </ingredients>
+        <cookingInstructions>In a pot, combine chicken/pork, soy sauce, and vinegar. Let it marinate for 30 minutes. Then, simmer the mixture over medium heat. Do not stir until it boils. Lastly, lower the heat and let it cook until the meat is tender and the sauce thickens.</cookingInstructions>
+    </recipe>
+    <recipe id="2">
+        <recipeTitle>Sinigang (Sour Tamarind Soup)</recipeTitle>
+        <ingredients>
+            <ingredient>500g pork ribs (or shrimp/fish)</ingredient>
+            <ingredient>1 packet tamarind soup mix (or fresh tamarind)</ingredient>
+            <ingredient>2 cups water</ingredient>
+        </ingredients>
+        <cookingInstructions>Boil pork ribs in water until tender. Remove scum from the surface. Then, add tamarind mix and let it simmer for 5-10 minutes. Lastly, adjust the seasoning, then serve hot.</cookingInstructions>
+    </recipe>
+    <recipe id="3">
+        <recipeTitle>Pancit Canton (Stir-Fried Noodles)</recipeTitle>
+        <ingredients>
+            <ingredient>200g pancit canton noodles</ingredient>
+            <ingredient>1 cup mixed vegetables (carrots, cabbage)</ingredient>
+            <ingredient>¼ cup soy sauce</ingredient>
+        </ingredients>
+        <cookingInstructions>Sauté vegetables in a pan with a little oil. Then, add soy sauce and noodles, then stir-fry until well combined. Lastly, cook for a few minutes until the noodles are tender.</cookingInstructions>
+    </recipe>
+    <recipe id="4">
+        <recipeTitle>Tinola (Chicken Ginger Soup)</recipeTitle>
+        <ingredients>
+            <ingredient>500g chicken (cut into pieces)</ingredient>
+            <ingredient>1 thumb-sized ginger (sliced)</ingredient>
+            <ingredient>2 cups water</ingredient>
+        </ingredients>
+        <cookingInstructions>Sauté ginger in a pot, then add chicken and cook until slightly browned. Then, pour in water and bring to a boil. Lastly, simmer until chicken is tender, then serve hot..</cookingInstructions>
+    </recipe>
+    <recipe id="5">
+        <recipeTitle>Turon (Banana Spring Roll)</recipeTitle>
+        <ingredients>
+            <ingredient>2 ripe saba bananas (sliced)</ingredient>
+            <ingredient>¼ cup brown sugar</ingredient>
+            <ingredient>4 lumpia (spring roll) wrappers</ingredient>
+        </ingredients>
+        <cookingInstructions>Roll banana slices in brown sugar. Wrap them in lumpia wrappers.Then, fry in hot oil until golden brown. Lastly, drain excess oil and serve.</cookingInstructions>
+    </recipe>
+</recipes>
